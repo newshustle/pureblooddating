@@ -1,0 +1,19 @@
+.profile-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+}
+
+.profile-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.like-btn, .dislike-btn {
+    margin: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
